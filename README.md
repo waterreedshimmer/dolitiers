@@ -1,5 +1,5 @@
 # dolitiers
-Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install as I'm not a professional. Please don't copy paste Dolibarr in here as I don't have the rights. But you can copy the Dolitiers images to your fork, no problem. And create your Dolitiers.
+Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install as I'm not a professional. Please don't copy paste Dolibarr in here as I don't have the rights. But you can copy the Dolitiers images to your fork, no problem. And create your Dolitiers. You can also propose your art images as mine aren't art, it's just the T letter over the D of Dolibarr for the eye not to get confusion with two Dolibarrs.
 
 ## Image customization of Dolitiers
 - Download your Dolibarr from official GIT.
