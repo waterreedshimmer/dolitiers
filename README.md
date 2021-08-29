@@ -1,5 +1,5 @@
 # dolitiers
-Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install.
+Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install. Please don't copy paste Dolibarr in here as I don't have the rights. But you can copy the Dolitiers images to your fork, no problem. And create your Dolitiers.
 
 
 - Download your Dolibarr from official GIT.
