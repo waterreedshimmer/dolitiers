@@ -1,7 +1,7 @@
 # dolitiers
-Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install. Please don't copy paste Dolibarr in here as I don't have the rights. But you can copy the Dolitiers images to your fork, no problem. And create your Dolitiers.
+Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1 Dolibarr for you and 1 Dolibarr for third party. I'll put the images and the installation suggestion. But not Dolibarr. The only files you will find here are my images. I can't help with the install as I'm not a professional. Please don't copy paste Dolibarr in here as I don't have the rights. But you can copy the Dolitiers images to your fork, no problem. And create your Dolitiers.
 
-
+## Image customization of Dolitiers
 - Download your Dolibarr from official GIT.
 - sudo mv dolibarr dolitiers
 - sudo mv dolitiers /var/www/html
@@ -14,7 +14,7 @@ Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1
 - sudo chmod -R 755 /var/www/html/dolitiers/htdocs/theme/
 - sudo chown -R root:root /var/www/html/dolitiers/doc/images
 - sudo chown -R root:root /var/www/html/dolitiers/htdocs/theme/
-- Installation advices:
+## Installation advice for Dolitiers
 - It's important to create dolitiers database, to separate its data from your dolibarr database.
 - New database > dolitiers + utf8_general_ci
 - PhpMyAdmin > User Accounts > Add user account new user
