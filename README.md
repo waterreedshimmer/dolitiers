@@ -15,12 +15,13 @@ Hello, I'm not in informatics, this is part of a Dolibarr fork for you to have 1
 - sudo chown -R root:root /var/www/html/dolitiers/doc/images
 - sudo chown -R root:root /var/www/html/dolitiers/htdocs/theme/
 - Installation advices:
+- It's important to create dolitiers database, to separate its data from your dolibarr database.
 - New database > dolitiers + utf8_general_ci
 - PhpMyAdmin > User Accounts > Add user account new user
 - database: dolitiers > Privilèges : Edit Privilèges > database > Database Specific Privileges for new user
-- Install as usual
-- Make sure default database is dolitiers
-- Make sure default user folder is different from your first dolibarr
+- Install as usual and add new user (same as created) at the end of installation.
+- Make sure default database is dolitiers ! Important.
+- Make sure default user folder is different from your first dolibarr ! Important.
 - Like that you can take care if ever you need of other business sales and keep both Dolibarr and Dolitiers without confusion.
 
 
