@@ -30,13 +30,13 @@ Whether the applicant, employer or client is an individual, a third party indivi
 - induces the company manager to commit actions that may be liable to be illegal in the countries concerned
 - damages its reputation
 - involves taking a physiological, physical, psychological, social or moral risk
--> Then the individual entrepreneur CONTRACTOR NAME F/M or his company NAME OF THE COMPANY will immediately cease the provision of service. And the individual or the third party individual entrepreneur or the company will owe him the full amount of the service requested or accepted, but the service will no longer be performed and will be without results and without achievement. The only justification will be endangering the service provider.
+<br/> Then the individual entrepreneur CONTRACTOR NAME F/M or his company NAME OF THE COMPANY will immediately cease the provision of service. And the individual or the third party individual entrepreneur or the company will owe him the full amount of the service requested or accepted, but the service will no longer be performed and will be without results and without achievement. The only justification will be endangering the service provider.
 
 Que le demandeur, l’employeur ou le client soit un particulier, un entrepreneur individuel tiers ou une entreprise, si NOM DE L'ENTREPRISE ou l’entrepreneur individuel NOM DE L'ENTREPRENEUR F/H accepte ou pose un contrat avec un tiers. Et qu’il s’avère qu’il y ait une suspicion sans preuves que la prestation de service :
 - induit la/le chef d’entreprise à commetre des actions pouvant être suceptibles d’être illégales dans les pays concernés
 - nuit à sa réputation
 - implique une prise de risque physiologique, physique, psychologique, social ou moral
--> Alors l’entrepreneur individuel NOM DE L'ENTREPRENEUR F/H ou son entreprise NOM DE L'ENTREPRISE cesseront sur le champ la prestation de service. Et le particulier ou l’entrepreneur individuel tiers ou l’entreprise lui devront la totalité de la somme de la prestation de service demandée ou acceptée, mais la prestation de service ne sera plus exécutée et sera sans résultats et sans réalisation. La seule justification sera mise en danger du prestataire de services.
+<br/> Alors l’entrepreneur individuel NOM DE L'ENTREPRENEUR F/H ou son entreprise NOM DE L'ENTREPRISE cesseront sur le champ la prestation de service. Et le particulier ou l’entrepreneur individuel tiers ou l’entreprise lui devront la totalité de la somme de la prestation de service demandée ou acceptée, mais la prestation de service ne sera plus exécutée et sera sans résultats et sans réalisation. La seule justification sera mise en danger du prestataire de services.
 
 
 
